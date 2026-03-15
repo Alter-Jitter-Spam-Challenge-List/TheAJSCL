@@ -1,0 +1,73 @@
+{
+    "id": 93409476,
+    "name": "The King of Speed",
+    "author": "JeDoesStuff",
+    "creators": [],
+    "verifier": "JeDoesStuff",
+    "verification": "https://youtu.be/Jy37Qe1XPZk?si=L1AjQ2ZgrtC95--0",
+    "percentToQualify": "100",
+    "handcam": "Not Required",
+    "fps": "102",
+    "records": [
+        {
+            "user": "IsntAdam",
+            "link": "",
+            "percent": 100,
+            "hz": 102
+        },
+          {
+            "user": "Frozix",
+            "link": "",
+            "percent": 100,
+            "hz": 102
+          },
+        {
+            "user": "LucaGMD",
+            "link": "",
+            "percent": 100,
+            "hz": 102
+        },
+          {
+            "user": "GMDMIRROR",
+            "link": "",
+            "percent": 100,
+            "hz": 102
+          },
+        {
+            "user": "F1erzza",
+            "link": "",
+            "percent": 100,
+            "hz": 102
+        },
+        {
+            "user": "JustAnUnknown",
+            "link": "",
+            "percent": 100,
+            "hz": 102
+        },
+        {
+            "user": "2OO3",
+            "link": "",
+            "percent": 100,
+            "hz": 102
+        },
+        {
+            "user": "helomomy",
+            "link": "",
+            "percent": 100,
+            "hz": 102
+        },
+        {
+            "user": "rogi",
+            "link": "",
+            "percent": 100,
+            "hz": 102
+        },
+        {
+            "user": "Xed",
+            "link": "",
+            "percent": 100,
+            "hz": 102
+        }
+    ]
+}
