@@ -51,6 +51,10 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
+                            <div class="type-title-sm">FPS</div>
+                            <p>{{ level.fps }}</p>
+                        </li>
+                        <li>
                             <div class="type-title-sm">Handcam</div>
                             <p>{{ level.handcam || 'Not Required' }}</p>
                         </li>
