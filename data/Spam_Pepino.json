@@ -1,0 +1,19 @@
+{
+    "id": 115676077,
+    "name": "Spam Pepino",
+    "author": "JeDoesStuff",
+    "creators": [],
+    "verifier": "JeDoesStuff",
+    "verification": "https://youtu.be/v0w26Q08P3g?si=sH8UuyRC9i7-AV9K",
+    "percentToQualify": "100",
+    "handcam": "Required",
+    "fps": "75",
+    "records": [
+        {
+            "user": "F1erzza",
+            "link": "",
+            "percent": 100,
+            "hz": 75
+        }
+    ]
+}
