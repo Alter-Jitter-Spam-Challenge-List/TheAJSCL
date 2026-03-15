@@ -1,0 +1,25 @@
+{
+    "id": 115636386,
+    "name": "Pal Legend",
+    "author": "JeDoesStuff",
+    "creators": [],
+    "verifier": "JeDoesStuff",
+    "verification": "https://youtu.be/u_xsFMmEA0A?si=iZFFEKMccSJHWFJJ",
+    "percentToQualify": "100",
+    "handcam": "Required",
+    "fps": "100",
+    "records": [
+        {
+            "user": "LucaGMD",
+            "link": "",
+            "percent": 100,
+            "hz": 100
+        },
+        {
+            "user": "F1erzza",
+            "link": "",
+            "percent": 100,
+            "hz": 100
+        }
+    ]
+}
