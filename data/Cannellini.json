@@ -1,0 +1,19 @@
+{
+    "id": 116478080,
+    "name": "Cannellini",
+    "author": "JeDoesStuff",
+    "creators": [],
+    "verifier": "JeDoesStuff",
+    "verification": "https://youtu.be/Wglw8v-W0jQ?si=H5E4zrT9SC1DOqpE",
+    "percentToQualify": "100",
+    "handcam": "Not Required",
+    "fps": "CBF",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}
