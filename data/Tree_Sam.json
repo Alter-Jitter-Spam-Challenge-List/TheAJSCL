@@ -1,0 +1,37 @@
+{
+    "id": 104606133,
+    "name": "Tree Sam",
+    "author": "JeDoesStuff",
+    "creators": [],
+    "verifier": "JeDoesStuff",
+    "verification": "https://youtu.be/FPj3hJYIexA?si=tEGfF7990QMZoV21",
+    "percentToQualify": "100",
+    "handcam": "Not Required",
+    "fps": "Any",
+    "records": [
+        {
+            "user": "aelzfr",
+            "link": "https://youtu.be/AXk6llOSv-w",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "beefaroni",
+            "link": "https://youtu.be/wG-LZm-YXR0?si=JaTa12pYNHtc0zW4",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s?si=03C8WoK6UB91vqcq&t=196",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/Awjp0h3ZWuw",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
