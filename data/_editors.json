@@ -2,12 +2,17 @@
     {
         "role": "owner",
         "name": "Liknod",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://youtube.com/@lik-nod?si=nVIWgPpkjdd22tPK"
+    },
+    {
+        "role": "owner",
+        "name": "F1erzza",
+        "link": "https://youtube.com/@f1erzza?si=JEOfFZ2nGIRV1T8K"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "JustAnUnknown",
+        "link": "https://youtube.com/@justanunknown231?si=eTXEI1RJRqEflMqy"
     },
     {
         "role": "helper",
@@ -22,6 +27,6 @@
     {
         "role": "dev",
         "name": "Liknod",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://youtube.com/@lik-nod?si=nVIWgPpkjdd22tPK"
     }
 ]
