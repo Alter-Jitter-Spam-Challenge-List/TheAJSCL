@@ -9,5 +9,11 @@
     "fps": "CBF",
     "handcam": "Required",
     "records": [
+        {
+            "user": "GMDMIRROR",
+            "link": "https://youtu.be/Sdg5L-6ta9I?is=5XjQJ-kYY-wwrZvp",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
-}
+}    
