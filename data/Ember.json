@@ -1,0 +1,49 @@
+{
+    "id": 67817078,
+    "name": "Ember (Uncapped)",
+    "author": "MeowPau",
+    "creators": [],
+    "verifier": "JeDoesStuff",
+    "verification": "https://youtu.be/AclLbDRzUNM?si=Bsezw_kZu3WLftWr",
+    "percentToQualify": "100",
+    "handcam": "Not Required",
+    "fps": "240/360",
+    "records": [
+        {
+            "user": "pixelfactorial",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "PaperGuy",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "ywuChaos",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "GMDMIRROR",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "F1erzza",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "AstroGuy",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}
