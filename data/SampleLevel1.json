@@ -1,12 +1,11 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "name": "Vanished",
+    "author": "JustAnUnknown",
+    "creators": ["JustAnUnknown","Delgado_yeet_404"],
+    "verifier": "Liknod",
+    "verification": "https://youtu.be/WUQ4SFmWiJI?is=FdrUjCDiaEZbvIel",
     "percentToQualify": 100,
-    "password": "Not Copyable",
     "records": [
         {
             "user": "Sample_Victor_1",
