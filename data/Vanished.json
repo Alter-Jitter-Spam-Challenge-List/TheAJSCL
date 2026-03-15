@@ -1,11 +1,12 @@
 {
-    "id": 57436521,
-    "name": "Vanished",
+    "id": 135601627,
+    "name": "vanished",
     "author": "JustAnUnknown",
-    "creators": ["JustAnUnknown","Delgado_yeet_404"],
+    "creators": ["JustAnUnknown", "Delgado_yeet_404"],
     "verifier": "Liknod",
     "verification": "https://youtu.be/WUQ4SFmWiJI?is=FdrUjCDiaEZbvIel",
-    "percentToQualify": 100,
+    "percentToQualify": "100",
+    "password": "Required",
     "records": [
     ]
-{
+}
