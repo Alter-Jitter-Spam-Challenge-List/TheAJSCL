@@ -10,9 +10,11 @@
     "handcam": "Required",
     "fps": "CBF",
     "records": [
-{
-    "name": "Liknod",
-    "link": "",
-    "hz": "CBF",
-    "percent": "100"
+        {
+            "name": "Liknod",
+            "link": "",
+            "hz": "CBF",
+            "percent": "100"
+        }
+    ]
 }
