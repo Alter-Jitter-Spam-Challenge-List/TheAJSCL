@@ -1,13 +1,14 @@
+
 {
-    "id": "133721717",
+    "id": 133721717,
     "name": "For The Big Dihh",
     "author": "Liknod",
     "creators": [],
     "verifier": "Liknod",
-    "link": "https://youtu.be/YoUdo4KbSlw",
-    "percent": "100",
-    "fps": "CBF",
+    "verification": "https://youtu.be/YoUdo4KbSlw",
+    "percentToQualify": "100",
     "handcam": "Required",
+    "fps": "CBF",
     "records": [
     ]
 }
