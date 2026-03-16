@@ -13,8 +13,8 @@
         {
             "user": "Liknod",
             "link": "",
-            "hz": "CBF",
-            "percent": "100"
+            "percent": 100,
+            "hz": "CBF"
         }
     ]
 }
