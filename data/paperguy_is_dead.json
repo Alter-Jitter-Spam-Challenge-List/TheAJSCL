@@ -1,0 +1,37 @@
+{
+    "id": 130698961,
+    "name": "paperguy is dead",
+    "author": "LightningytGD",
+    "creators": ["IsntAdam", "LightningGD"],
+    "verifier": "LightningGD",
+    "verification": "https://youtu.be/XxgSYJ7pfgs",
+    "percentToQualify": "100",
+    "handcam": "Required",
+    "fps": "60",
+    "records": [
+        {
+            "user": "F1erzza",
+            "link": "",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "rogi",
+            "link": "",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "OmorGD",
+            "link": "",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "vny8",
+            "link": "",
+            "percent": 100,
+            "hz": "60"
+        }
+    ]
+}
