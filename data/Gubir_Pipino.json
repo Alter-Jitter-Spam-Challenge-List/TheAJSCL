@@ -10,10 +10,28 @@
     "handcam": "Required",
     "records": [
         {
+            "user": "Isnt_Adam",
+            "link": "https://youtu.be/lyqQAiLUNrE?is=98U2VvEVJ5ajL1gU",
+            "percent": "100",
+            "hz": "CBF"
+        },
+        {
             "user": "GMDMIRROR",
             "link": "https://youtu.be/Sdg5L-6ta9I?is=5XjQJ-kYY-wwrZvp",
             "percent": 100,
             "hz": "CBF"
-        }
+        },
+        {
+            "user": "F1erzza",
+            "link": "https://youtube.com/@f1erzza?si=eX-iw2Jf1Wipz3GD",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "JustAnUnknown",
+            "link": "https://youtu.be/xwT19FlzpfU?is=xx3A4HhHfyN3C5N6",
+            "percent": "100",
+            "hz": "CBF"
+        }    
     ]
 }    
