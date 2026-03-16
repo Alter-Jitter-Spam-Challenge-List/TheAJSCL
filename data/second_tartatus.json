@@ -1,0 +1,31 @@
+{
+    "id": 132577805,
+    "name": "second tartarus",
+    "author": "Liknod",
+    "creators": ["JeDoesStuff", "Liknod"],
+    "verifier": "Liknod",
+    "verification": "https://youtu.be/RC7nK4n_nGA",
+    "percentToQualify": "100",
+    "handcam": "Not Required",
+    "fps": "104",
+    "records": [
+        {
+            "user": "F1erzza",
+            "link": "",
+            "percent": 100,
+            "hz": "104"
+        },
+        {
+            "user": "helomomy",
+            "link": "",
+            "percent": 100,
+            "hz": "104"
+        },
+        {
+            "user": "2OO3",
+            "link": "",
+            "percent": 100,
+            "hz": "104"
+        }
+    ]
+}
