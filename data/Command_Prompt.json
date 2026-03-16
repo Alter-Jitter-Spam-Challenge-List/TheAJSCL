@@ -1,0 +1,25 @@
+{
+    "id": 117236139,
+    "name": "Command Prompt",
+    "author": "aelzfr",
+    "creators": [],
+    "verifier": "aelzfr",
+    "verification": "https://youtu.be/T3RfNFVEREE",
+    "percentToQualify": "100",
+    "handcam": "Not Required",
+    "fps": "93",
+    "records": [
+        {
+            "user": "GMDMIRROR",
+            "link": "",
+            "percent": 100,
+            "hz": "93"
+        },
+        {
+            "user": "JustAnUnknown",
+            "link": "",
+            "percent": 100,
+            "hz": "93"
+        }
+    ]
+}
