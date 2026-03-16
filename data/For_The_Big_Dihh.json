@@ -2,9 +2,12 @@
     "id": "133721717",
     "name": "For The Big Dihh",
     "author": "Liknod",
-    "creators": ""
-    "user": "F1erzza",
+    "creators": [],
+    "verifier": "Liknod",
     "link": "https://youtu.be/YoUdo4KbSlw",
     "percent": "100",
-    "hz": "CBF"
+    "hz": "CBF",
+    "handcam": "Required",
+    "records": [
+    ]
 }
