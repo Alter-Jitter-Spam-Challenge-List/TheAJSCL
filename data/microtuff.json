@@ -1,0 +1,19 @@
+{
+    "id": 133503303,
+    "name": "microtuff",
+    "author": "AngoPR",
+    "creators": ["AngoPR"],
+    "verifier": "rogi",
+    "verification": "https://youtu.be/4ov_U1wrdns",
+    "percentToQualify": "100",
+    "handcam": "Required",
+    "fps": "60",
+    "records": [
+        {
+            "user": "LightningGD",
+            "link": "",
+            "percent": 100,
+            "hz": "60"
+        }
+    ]
+}
