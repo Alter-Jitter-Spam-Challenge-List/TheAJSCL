@@ -1,0 +1,55 @@
+{
+    "id": 106580675,
+    "name": "paperguy literally n",
+    "author": "IsntAdam",
+    "creators": [],
+    "verifier": "IsntAdam",
+    "verification": "https://youtu.be/xx0KAYCJ-v4",
+    "percentToQualify": "100",
+    "handcam": "Not Required",
+    "fps": "60",
+    "records": [
+        {
+            "user": "Frozix",
+            "link": "",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "F1erzza",
+            "link": "",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "LightningGD",
+            "link": "",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "Liknod",
+            "link": "",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "rogi",
+            "link": "",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "helomomy",
+            "link": "",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "vny8",
+            "link": "",
+            "percent": 100,
+            "hz": "60"
+        }
+    ]
+}
