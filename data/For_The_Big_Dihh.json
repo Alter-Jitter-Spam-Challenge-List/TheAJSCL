@@ -5,10 +5,16 @@
     "author": "Liknod",
     "creators": [],
     "verifier": "Liknod",
-    "verification": "https://youtu.be/YoUdo4KbSlw",
+    "verification": "https://youtu.be/Xj4kZqgVkJM?is=EfmG5Kldv-WZ5_pY",
     "percentToQualify": "100",
     "handcam": "Required",
     "fps": "CBF",
     "records": [
+        {
+            "user": "F1erzza",
+            "link": "https://youtu.be/YoUdo4KbSlw",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
