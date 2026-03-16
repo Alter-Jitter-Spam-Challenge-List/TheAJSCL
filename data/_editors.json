@@ -10,6 +10,11 @@
         "link": "https://youtube.com/@f1erzza?si=JEOfFZ2nGIRV1T8K"
     },
     {
+        "role": "owmer",
+        "name": "MiRPacK19",
+        "link": "https://youtube.com/@mirpack19?si=xsO8TTOQrrb17jc2"
+    },
+    {
         "role": "admin",
         "name": "JustAnUnknown",
         "link": "https://youtube.com/@justanunknown231?si=eTXEI1RJRqEflMqy"
@@ -23,11 +28,6 @@
         "role": "admin",
         "name": "ywuChaos",
         "link": "https://youtube.com/@yowutupchaos?si=F103mP1eRQstCm_g"
-    },
-    {
-        "role": "helper",
-        "name": "MiRPacK19",
-        "link": "https://youtube.com/@mirpack19?si=xsO8TTOQrrb17jc2"
     },
     {
         "role": "dev",
