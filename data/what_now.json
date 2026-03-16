@@ -1,0 +1,25 @@
+{
+    "id": 116721514,
+    "name": "what now",
+    "author": "aelzfr",
+    "creators": [],
+    "verifier": "aelzfr",
+    "verification": "https://youtu.be/-ha_CBX95FA",
+    "percentToQualify": "100",
+    "handcam": "Not Required",
+    "fps": "90",
+    "records": [
+        {
+            "user": "Astroguy",
+            "link": "",
+            "percent": 100,
+            "hz": "90"
+        },
+        {
+            "user": "PaperGuy",
+            "link": "",
+            "percent": 100,
+            "hz": "90"
+        }
+    ]
+}
