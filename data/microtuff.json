@@ -6,7 +6,7 @@
     "verifier": "rogi",
     "verification": "https://youtu.be/4ov_U1wrdns",
     "percentToQualify": "100",
-    "handcam": "Required",
+    "handcam": "Not Required",
     "fps": "60",
     "records": [
         {
