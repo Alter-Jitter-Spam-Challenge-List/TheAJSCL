@@ -6,7 +6,7 @@
     "verifier": "JeDoesStuff",
     "verification": "https://youtu.be/Wglw8v-W0jQ?si=H5E4zrT9SC1DOqpE",
     "percentToQualify": "100",
-    "handcam": "Not Required",
+    "handcam": "Required",
     "fps": "CBF",
     "records": [
         {
