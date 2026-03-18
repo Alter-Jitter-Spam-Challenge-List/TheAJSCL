@@ -1,5 +1,5 @@
 {
-    "id": 135601627,
+    "id": 120450448,
     "name": "just no",
     "author": "coolkid363",
     "creators": [],
@@ -9,5 +9,23 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
+        {
+            "user": "LucaGMD",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "GMDMIRROR",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "F1erzza",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
