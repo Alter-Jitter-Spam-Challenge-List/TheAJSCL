@@ -1,6 +1,6 @@
 {
-    "id": 135601627,
-    "name": "Drywall But I Salad",
+    "id": 73769961,
+    "name": "dry wall but i salad",
     "author": "MM9000",
     "creators": [],
     "verifier": "LucaGMD",
@@ -9,5 +9,17 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
+        {
+            "user": "GMDMIRROR",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "F1erzza",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
