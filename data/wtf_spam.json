@@ -1,5 +1,5 @@
 {
-    "id": 135601627,
+    "id": 132487120,
     "name": "WTF Spam",
     "author": "Liknod",
     "creators": [],
@@ -9,5 +9,17 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
+        {
+            "user": "F1erzza",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "LightningGD",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
