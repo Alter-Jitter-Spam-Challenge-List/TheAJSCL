@@ -1,7 +1,7 @@
 {
-    "id": 135601627,
+    "id": 128059493,
     "name": "pepino noclip",
-    "author": "LucaGMD",
+    "author": "alyn",
     "creators": [],
     "verifier": "LucaGMD",
     "verification": "https://youtu.be/KgIY8LHi-Pc",
@@ -9,5 +9,17 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
+        {
+            "user": "GMDMIRROR",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "F1erzza",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
