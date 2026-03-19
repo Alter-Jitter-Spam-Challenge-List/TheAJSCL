@@ -9,11 +9,6 @@
     "handcam": "Required",
     "fps": "CBF",
     "records": [
-        {
-            "user": "PaperGuy",
-            "link": "",
-            "percent": 100,
-            "hz": "CBF"
         }
     ]
 }
