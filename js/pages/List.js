@@ -104,28 +104,34 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Almost all the difficulty of the level must come from the spam part - however, you are allowed to put a timing/frame perfect at the end or beginning.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        A maximum of 2 inputs is allowed.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        All original verifications and completions must be done using alterjitter. See all alterjitter methods in #altjitter_methods in our discord server. (This means Command Prompt and some other very high cps levels like Spam Deity are not allowed)
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        The lowest respawn time is 0.5 seconds. (Turn on Enable Fast Reset in game settings)
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        All the records and verification must be on uncapped devices. Check this website and try to get the shortest keypress possible - uncapped devices have a debounce delay of 10ms and less.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        All levels must be beaten on their listed FPS. Physics bypass can only be used for framerates 240 and under. For 2.1 levels, any fps in range 59-360 is allowed. 240/360 levels are allowed to be beaten with CBF. CBF is its own framerate.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Handcam is required for completions/verifications for top 10 levels and ALL stamina levels to prevent hand swapping.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Rebinding is allowed as long as its 1 or 2 keys.
+                    </p>
+                    <p>
+                        There is no time limit for levels.
+                    </p>
+                    <p>
+                        Have common sense please
                     </p>
                 </div>
             </div>
