@@ -116,7 +116,7 @@ export default {
                         The lowest respawn time is 0.5 seconds. (Turn on Enable Fast Reset in game settings)
                     </p>
                     <p>
-                        All the records and verification must be on uncapped devices. Check this website and try to get the shortest keypress possible - uncapped devices have a debounce delay of 10ms and less.
+                        All the records and verification must be on uncapped devices. Check <a href="https://clickspeedtester.com/keyboard-latency-test/" target="_blank">this</a> website and try to get the shortest keypress possible - uncapped devices have a debounce delay of 10ms and less.
                     </p>
                     <p>
                         All levels must be beaten on their listed FPS. Physics bypass can only be used for framerates 240 and under. For 2.1 levels, any fps in range 59-360 is allowed. 240/360 levels are allowed to be beaten with CBF. CBF is its own framerate.
