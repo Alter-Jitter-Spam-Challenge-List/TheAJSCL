@@ -1,0 +1,55 @@
+{
+    "id": 129049982,
+    "name": "rock john",
+    "author": "JeDoesStuff, ywuChaos",
+    "creators": [],
+    "verifier": "ywuChaos",
+    "verification": "https://youtu.be/rzHPGq3ZptQ",
+    "percentToQualify": "100",
+    "handcam": "Not Required",
+    "fps": "CBF",
+    "records": [
+    {
+       "user": "GMDMIRROR",   
+       "link": "",     
+       "hz": "CBF",     
+       "percent": 100
+    },
+        {
+           "user": "F1erzza",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "JustAnUnknown",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "Astroguy",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "Xed",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "2OO3",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "LightningGD",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        }
+    ]
+}
