@@ -1,0 +1,43 @@
+{
+    "id": 127752958,
+    "name": "Liknod Tutorial",
+    "author": "zFrozix",
+    "creators": [],
+    "verifier": "Frozix",
+    "verification": "https://youtu.be/fHsFRbkgsUM",
+    "percentToQualify": "100",
+    "handcam": "Not Required",
+    "fps": "CBF",
+    "records": [
+    {
+       "user": "ywuChaos",   
+       "link": "",     
+       "hz": "CBF",     
+       "percent": 100
+    },
+        {
+           "user": "AstroGuy",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "Astroguy",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "GMDMIRROR",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        },
+        {
+           "user": "galbeni7",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        }
+    ]
+}
