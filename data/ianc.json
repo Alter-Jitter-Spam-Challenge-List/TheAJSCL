@@ -1,0 +1,25 @@
+{
+    "id": 125948059,
+    "name": "Isnt adam never clea",
+    "author": "JustAnUnknown",
+    "creators": [],
+    "verifier": "IsntAdam",
+    "verification": "https://youtu.be/4SRIFWAtKPs",
+    "percentToQualify": "100",
+    "fps": "CBF",
+    "handcam": "Not Required",
+    "records": [
+        {
+            "user": "F1erzza",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "LightningGD",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}    
