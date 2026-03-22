@@ -6,7 +6,7 @@
     "verifier": "Liknod",
     "verification": "https://youtu.be/A0Bdwyka5ic?t=344&si=4h6wKTTwnZGqNTCX",
     "percentToQualify": "100",
-    "handcam": "Not Required",
+    "handcam": "Required",
     "fps": "CBF",
     "records": [
     ]
