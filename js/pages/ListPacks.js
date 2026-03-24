@@ -113,12 +113,8 @@ export default {
               <p>{{ selectedLevel.fps || 'Any' }}</p>
             </li>
             <li>
-              <div class="type-title-sm">VERSION</div>
-              <p>{{ selectedLevel.version || 'Any' }}</p>
-            </li>
-            <li>
-              <div class="type-title-sm">ALTERNATING</div>
-              <p>{{ selectedLevel.alternating || 'No' }}</p>
+              <div class="type-title-sm">HANDCAM</div>
+              <p>{{ selectedLevel.handcam || 'Not Required' }}</p>
             </li>
           </ul>
         </div>
