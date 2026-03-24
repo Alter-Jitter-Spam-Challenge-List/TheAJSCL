@@ -91,10 +91,8 @@ export default {
                     </div>
                     <div class="og">
                         <p class="type-label-md">Website layout made by <a href="https://tsl.pages.dev/" target="_blank">TheShittyList</a></p>
-                        <p class="type-label-md"> </p>
-                        <p class="type-label-md"> </p>
-                        <p class="type-label-md"> </p>
-                        <p class="type-label-md"> </p>
+                    </div>
+                    <div class="og2">
                         <p class="type-label-md">Packs shamelessly stolen from <a href="https://consistencychallenge.pages.dev/" target="_blank">Consistency Challenge List</a></p>
                     </div>
                     <template v-if="editors">
