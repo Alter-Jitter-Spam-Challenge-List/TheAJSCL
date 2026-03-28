@@ -3,18 +3,12 @@
     "name": "Command Prompt",
     "author": "aelzfr",
     "creators": [],
-    "verifier": "aelzfr",
-    "verification": "https://youtu.be/T3RfNFVEREE",
+    "verifier": "GMDMIRROR",
+    "verification": "https://youtube.com/shorts/JSqoE_eOchI?si=u4o8MJIH5lhfShN5",
     "percentToQualify": "100",
     "handcam": "Not Required",
     "fps": "93",
     "records": [
-        {
-            "user": "GMDMIRROR",
-            "link": "",
-            "percent": 100,
-            "hz": "93"
-        },
         {
             "user": "JustAnUnknown",
             "link": "",
