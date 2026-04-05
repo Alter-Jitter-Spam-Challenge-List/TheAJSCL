@@ -9,5 +9,11 @@
     "handcam": "Not Required",
     "fps": "93",
     "records": [
+        {
+           "user": "GMDMIRROR",   
+           "link": "https://youtube.com/shorts/X80KQ8N8ZWY?si=fef2XcF4unlioVEP",     
+           "hz": "93",     
+           "percent": 100
+        }
     ]
 }
