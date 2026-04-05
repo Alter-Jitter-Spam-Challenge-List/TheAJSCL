@@ -9,5 +9,11 @@
     "handcam": "Not Required",
     "fps": "97",
     "records": [
-       ]
+        {
+            "user": "MiRPacK19",
+            "link": "https://youtu.be/mmOjHCgjKWA",
+            "percent": 100,
+            "hz": "97"
+        }
+    ]
 }
