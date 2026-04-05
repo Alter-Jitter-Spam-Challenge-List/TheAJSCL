@@ -7,7 +7,13 @@
     "verification": "https://youtu.be/7pwcmMo83Pk",
     "percentToQualify": "100",
     "handcam": "Not Required",
-    "fps": "CBF",
+    "fps": "46.5",
     "records": [
+        {
+            "user": "MiRPacK19",
+            "link": "https://youtu.be/SWTLPMA7KjM",
+            "percent": 100,
+            "hz": "46.5"
+        }
     ]
 }
