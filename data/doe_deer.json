@@ -1,0 +1,19 @@
+{
+    "id": 137468005,
+    "name": "Doe Deer",
+    "author": "JustAnUnknown",
+    "creators": [],
+    "verifier": "JustAnUnknown",
+    "verification": "https://youtu.be/iNJCORwWi5Q",
+    "percentToQualify": "100",
+    "handcam": "Not Required",
+    "fps": "95",
+    "records": [
+        {
+          "user": "Xed",
+            "link": "https://www.youtube.com/shorts/z8jmQDmZUzQ",
+            "hz": "95",
+            "percent": 100
+        }
+    ]
+}
