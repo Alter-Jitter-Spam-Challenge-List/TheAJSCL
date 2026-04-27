@@ -9,5 +9,11 @@
     "handcam": "Not Required",
     "fps": "98",
     "records": [
+        {
+            "user": "GMDMIRROR",
+            "link": "",
+            "percent": 100,
+            "hz": "98"
+        }
        ]
 }
