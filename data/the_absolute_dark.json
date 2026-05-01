@@ -1,0 +1,25 @@
+{
+    "id": 132892837,
+    "name": "the absolute dark",
+    "author": "GMDFriskovich",
+    "creators": ["Liknod"],
+    "verifier": "GMDMIRROR",
+    "verification": "https://youtu.be/v82D-mSQ-k8",
+    "percentToQualify": "100",
+    "handcam": "Not Required",
+    "fps": "CBF",
+    "records": [
+        {
+            "user": "F1erzza",
+            "link": "https://youtu.be/IU7K05RB79s",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "JustAnUnknown",
+            "link": "https://discord.com/channels/1482610459302559838/1497675825921654934/1497675825921654934",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}
