@@ -48,7 +48,13 @@
         {
            "user": "Liknod",   
            "link": "",     
-           "hz": "CBF",     
+           "hz": "60",     
+           "percent": 100
+        },
+        {
+           "user": "consstel",   
+           "link": "https://youtu.be/9BDcvL70mZI?si=AcNHiGWgPjD0C3Pw",     
+           "hz": "60",     
            "percent": 100
         }
     ]
