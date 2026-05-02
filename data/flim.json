@@ -9,5 +9,11 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
+        {
+            "user": "necrotikk",
+            "link": "https://www.youtube.com/watch?v=uTqwoySyHeM",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
