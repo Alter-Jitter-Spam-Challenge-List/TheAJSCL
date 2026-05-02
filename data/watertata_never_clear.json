@@ -1,6 +1,6 @@
 {
     "id": 137479426,
-    "name": "watertata never clear",
+    "name": "watertrata never clear",
     "author": "WAT3RM3L0N",
     "creators": [],
     "verifier": "WAT3RM3L0N",
@@ -9,5 +9,11 @@
     "handcam": "Not Required",
     "fps": "CBF",
     "records": [
+        {
+            "user": "JustAnUnknown",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
