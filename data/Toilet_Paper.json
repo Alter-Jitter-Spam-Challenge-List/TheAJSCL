@@ -50,6 +50,12 @@
            "link": "https://youtube.com/shorts/QIiWk7DpCEg?si=iErmek4FMzOmH2Vr",     
            "hz": "CBF",     
            "percent": 100
+        },
+        {
+            "user": "JustAnUnknown",
+            "link": "",
+            "percent": 100,
+            "hz": "CBF"
         }
     ]
 }
