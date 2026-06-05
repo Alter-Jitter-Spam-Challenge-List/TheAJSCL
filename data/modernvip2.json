@@ -12,8 +12,14 @@
     {
        "user": "MiRPacK19",   
        "link": "",     
-       "hz": "0",     
+       "hz": "CBF",     
        "percent": 100
-    }
+    },
+        {
+           "user": "G1rcy",   
+           "link": "",     
+           "hz": "CBF",     
+           "percent": 100
+        }
     ]
 }
